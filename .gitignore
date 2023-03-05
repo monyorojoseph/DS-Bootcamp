@@ -2,3 +2,5 @@ env/
 data/
 *.csv
 yt/
+__pycache__/
+db.*
