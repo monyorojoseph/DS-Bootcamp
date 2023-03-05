@@ -2,5 +2,3 @@ env/
 data/
 *.csv
 yt/
-/.ipynb_checkpoints/
-learning/
